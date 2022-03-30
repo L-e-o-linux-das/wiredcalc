@@ -1,0 +1,2 @@
+# wiredcalc
+JUST FOR FUN
