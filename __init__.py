@@ -1,21 +1,19 @@
-from cmath import log, sqrt
+import turtle
+one = "fukc 😊"
+two = "luv 😍"
+three = "wow 🤩"
+four = "1"
+five = '2'
+six = 0+9
+seven = 4*2
+eight = 9
+nine = 3
+ten = 8/4+8
+eleven = 11+7
+twelve = 6+7
+thirteen = 5
+fourteen = "😉"
+fifteen = "oh yeah"
+sixtynine = "😋😎 yeahhhh"
 
-
-def add_numbers(num1, num2):
-    return num1 + num2 
-def subtract_numbers(num1, num2):
-    return num1 - num2 
-def multipy_numbers(num1, num2):
-    return num1 * num2
-def divide_numbers(num1, num2):
-    return num1 / num2
-def squre_numbers(num1, num2):
-    return num1 ** num2   
-def modulus_numbers(num1, num2):
-    return num1 % num2 
-def floor_numbers(num1, num2):
-    return num1 // num2 
-def root_numbers(num1, num2):
-    return sqrt(num1) , (num2)
-def log_numbers(num1, num2):
-    return log(num1) , log(num2)
+print('noiceeeee lol 😋')
