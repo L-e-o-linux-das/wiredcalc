@@ -1,0 +1,1 @@
+This is a very weird calc, use with your own safety. BE CAREFULL!
